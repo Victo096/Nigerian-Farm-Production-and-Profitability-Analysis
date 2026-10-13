@@ -224,6 +224,7 @@ These include:
 These visualizations make it easier to identify trends, compare performance, and communicate analytical findings to stakeholders.
 
 # Dashbord || Report
+<img width="1912" height="1001" alt="Image" src="https://github.com/user-attachments/assets/3111751c-a3d1-4ca5-aad5-7305c749b9c9" />
 
 # KEY FINDINGS AND INSIGHTS
 
